@@ -14,18 +14,17 @@ A sleek and responsive calculator built with **HTML**, **CSS**, and **JavaScript
 
 ---
 
-## 📸 Screenshots
+## 📸 Live Project
 
-![Calculator Screenshot](https://via.placeholder.com/600x400.png?text=Calculator+Screenshot) <!-- Replace with your actual screenshot URL -->
+!(https://codesandbox.io/p/sandbox/github/KrAtulHub/HTML-CSS-JS-Calculator) <!-- Replace with your actual screenshot URL -->
 
 ---
 
 ## 💻 Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
+- **Frontend**: HTML, CSS, JavaScript 
 - **UI**: CSS Grid Layout, Transitions, Responsive Design
 
 ---
 
-## 📁 Folder Structure
 
