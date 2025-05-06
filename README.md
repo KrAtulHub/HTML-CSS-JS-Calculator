@@ -3,6 +3,11 @@
 A sleek and responsive calculator built with **HTML**, **CSS**, and **JavaScript**. This web-based calculator supports basic arithmetic operations and provides a clean user interface for everyday calculations.
 
 ---
+## 📸 Preview
+
+!(https://codesandbox.io/p/sandbox/github/KrAtulHub/HTML-CSS-JS-Calculator) <!-- Replace with your actual screenshot URL -->
+
+---
 
 ## 🚀 Features
 
@@ -14,11 +19,6 @@ A sleek and responsive calculator built with **HTML**, **CSS**, and **JavaScript
 
 ---
 
-## 📸 Live Project
-
-!(https://codesandbox.io/p/sandbox/github/KrAtulHub/HTML-CSS-JS-Calculator) <!-- Replace with your actual screenshot URL -->
-
----
 
 ## 💻 Tech Stack
 
