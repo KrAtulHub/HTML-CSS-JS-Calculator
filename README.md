@@ -6,6 +6,7 @@ A sleek and responsive calculator built with **HTML**, **CSS**, and **JavaScript
 ## 📸 Preview
 
 !(https://codesandbox.io/p/sandbox/github/KrAtulHub/HTML-CSS-JS-Calculator) <!-- Replace with your actual screenshot URL -->
+<img width="835" height="612" alt="Screenshot 2025-08-11 100125" src="https://github.com/user-attachments/assets/dc413fc5-5b9f-4316-8956-125526d79e42" />
 
 ---
 
